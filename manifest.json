@@ -1,7 +1,7 @@
 {
     "name": "Goldfishka",
     "short_name": "Goldfishka",
-    "start_url": "/?home=true",
+    "start_url": "https://goldfishkacom.wpcomstaging.com/pc2",
     "icons": [
       {
         "src": "https://alexygalexy.github.io/gf-pwa/icons/logo-dark-192.png",
